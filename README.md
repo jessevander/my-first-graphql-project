@@ -14,4 +14,4 @@ From the root server folder ( `./server` ):
 
 - Install packages with npm or yarn
 - Start server by running `node index.js`
-- Navigate to the url which opens the Apollo Client Sandbox
+- Navigate to the url which opens the Apollo Client Sandbox or go to [apollo-sandbox](studio.apollographql.com) and create your own graph
