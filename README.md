@@ -1,2 +1,15 @@
-# my-first-graphql-project
+# My First GraphQL Project
+
 GraphQl server with express, MongoDB and React Frontend
+
+## Apollo Client
+
+Check out the Docs => [Apollo Client](https://www.apollographql.com/docs/apollo-server/getting-started/)
+
+## How To
+
+### Server
+
+- Install packages with npm or yarn
+- From the root server folder ( `./server` ) run `node index.js`
+- Navigate to the url which opens the Apollo Client Sandbox
