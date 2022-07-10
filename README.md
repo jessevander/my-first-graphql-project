@@ -1,6 +1,6 @@
 # My First GraphQL Project
 
-GraphQl server with express, MongoDB and React Frontend
+GraphQl server with Apollo-client, MongoDB and React Frontend
 
 ## Apollo Client
 
