@@ -10,6 +10,8 @@ Check out the Docs => [Apollo Client](https://www.apollographql.com/docs/apollo-
 
 ### Server
 
+From the root server folder ( `./server` ):
+
 - Install packages with npm or yarn
-- From the root server folder ( `./server` ) run `node index.js`
+- Start server by running `node index.js`
 - Navigate to the url which opens the Apollo Client Sandbox
